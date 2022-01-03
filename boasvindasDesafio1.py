@@ -3,3 +3,6 @@ nome=input('Qual é seu nome?')
 
 """ Irá exibir na tela a mensagem concatenando (+) o resultado do "nome" """
 print('Olá', nome,'. É um prazer te conhecer')
+
+
+""" Prazer em te conhecer """

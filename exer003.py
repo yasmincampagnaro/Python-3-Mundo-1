@@ -7,3 +7,6 @@ s=n1+n2
 
 """ O resultado das variáveis ficará nos {}, na ordem que está no '.format', ou seja, {n1}, {n2}, {s} """
 print('A soma entre {} e {} é igual {}.'.format(n1,n2,s))
+
+
+""" "'Soma de dois números', mais sofisticada" """
