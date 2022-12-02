@@ -1,2 +1,2 @@
-# Python-3-Mundo-1
-Prática do curso de Python 3, criado pelo Prof. Gustavo Guanabara 
+# Python-3-Mundo
+Prática do curso de Python 3,  ministrado pelo professor Gustavo Guanabara.
